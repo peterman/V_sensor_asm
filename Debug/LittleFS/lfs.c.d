@@ -1,0 +1,28 @@
+C:\Users\pfeifferp.DREEBITNET\AppData\Local\Temp\VMBuilds\V_sensor_asm\esp8266_generic\Debug\LittleFS\lfs.c.o: \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3\libraries\LittleFS\src\lfs.c \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3\libraries\LittleFS\src\../lib/littlefs/lfs.c \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3\libraries\LittleFS\src\../lib/littlefs/lfs.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/stdint.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/features.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/_intsup.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3\libraries\LittleFS\src\../lib/littlefs/lfs_util.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/string.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/_ansi.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/newlib.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/config.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/xtensa/config/core-isa.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/reent.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/_ansi.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/_types.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/machine/_types.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/lock.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/string.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/inttypes.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/stdlib.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/machine/stdlib.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/alloca.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/assert.h \
+ C:\Users\pfeifferp.DREEBITNET\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.6.3/tools/sdk/libc/xtensa-lx106-elf/include/sys/pgmspace.h
